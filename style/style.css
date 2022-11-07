@@ -39,3 +39,8 @@ a{
     font-size: 40px;
     color:blueviolet ;
 }
+
+.header__nav{
+    padding: 20px 0;
+    background:blue ;
+}
